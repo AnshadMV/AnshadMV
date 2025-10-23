@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/avatar.png" width="200" align="right" />
 
+
+
 ---
 
 ### 💫 About Me  
@@ -7,6 +9,9 @@
 - 🔭 Currently exploring **AI-integrated web apps**  
 - 🌱 Learning **Ai, Lnaguages, Tools,..**  
 - 💬 Ask me about **Angular, TypeScript, REST APIs, Flutter, Firebase**  
+
+
+---
 
 ## ⚙️ Technologies & Tools  
 
@@ -42,12 +47,19 @@
 > ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 
+
+
+
+
 ---
 
 ## 🏆 GitHub Achievements  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=majidnope&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
+
+
+
 
 ## 📊 GitHub Stats  
 
@@ -61,9 +73,11 @@
 </div>
 
 
+
+
 ---
 
-## 🌐 Connect With Me  
+## Get in Touch With me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshadvelladath/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-61DAFB?style=for-the-badge)](https://anshadmv.github.io/portfolio/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-AnshadMV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnshadMV)
