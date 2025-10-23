@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/ZTwmr6G/dev-avatar.png" width="200" align="right" />
 
-# Muhammed Majid  
+# Anshad Muhammed V  
 
 🚀 Passionately building solutions that make a difference 🌟  
 
