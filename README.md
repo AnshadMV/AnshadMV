@@ -1,15 +1,12 @@
-<img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/avatar.png" width="200" align="right" />
+<img src="https://raw.githubusercontent.com/AnshadMV/portfolio/main/coder2.png" width="200" align="right" />
 
 
-
----
-
-### 💫 About Me  
-- 💻 Full Stack Developer | Crafting IT Solutions  
-- 🔭 Currently exploring **AI-integrated web apps**  
-- 🌱 Learning **Ai, Lnaguages, Tools,..**  
-- 💬 Ask me about **Angular, TypeScript, REST APIs, Flutter, Firebase**  
-
+### Hey folks...
+- here a Full Stack Dev
+- wanna  **Crafting IT Solutions** that actually make a difference
+- Me..! Currently exploring **AI-integrated web apps**  
+- Learning **Ai, Languages, Tools,..**
+- Hit me up for talks about **Angular, TypeScript, Flutter, Firebase**  
 
 ---
 
