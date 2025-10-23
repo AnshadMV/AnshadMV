@@ -1,19 +1,12 @@
-<img src="https://i.ibb.co/ZTwmr6G/dev-avatar.png" width="200" align="right" />
-
-# 👋 Hey there, I'm **Anshad Muhammed V**  
-🚀 *Passionately crafting digital experiences that make a difference* 🌍  
+<img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/avatar.png" width="200" align="right" />
 
 ---
 
 ### 💫 About Me  
-- 💻 Full Stack Developer | Crafting Web & Cloud Solutions  
+- 💻 Full Stack Developer | Crafting IT Solutions  
 - 🔭 Currently exploring **AI-integrated web apps**  
-- 🌱 Learning **Microservices, Docker & Cloud DevOps**  
-- 💬 Ask me about **Angular, Node.js, REST APIs, MongoDB**  
-- ⚡ Fun fact: I debug with coffee ☕ and chill with code 🎧  
-
-📫 **Reach me:** [majidnope@gmail.com](mailto:majidnope@gmail.com)  
-👀 **Profile views:** ![Profile Views](https://komarev.com/ghpvc/?username=majidnope&style=flat-square&color=brightgreen)
+- 🌱 Learning **Ai, Lnaguages, Tools,..**  
+- 💬 Ask me about **Angular, TypeScript, REST APIs, Flutter, Firebase**  
 
 ---
 
