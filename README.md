@@ -1,12 +1,14 @@
-<img src="https://raw.githubusercontent.com/AnshadMV/portfolio/main/coder2.png" width="200" align="right" />
-
 
 ### Hey folks...
+
+ <img src="https://raw.githubusercontent.com/AnshadMV/portfolio/main/coder2.png" width="200" align="left" />
+
 - here a Full Stack Dev
 - wanna  **Crafting IT Solutions** that actually make a difference
 - Me..! Currently exploring **AI-integrated web apps**  
 - Learning **Ai, Languages, Tools,..**
 - Hit me up for talks about **Angular, TypeScript, Flutter, Firebase**  
+
 
 ---
 
@@ -36,13 +38,6 @@
 > ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 > ![Microsoft Tools](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
-
-
-
----
-
-## 🏆 GitHub Achievements  
-![Trophies](https://github-profile-trophy.vercel.app/?username=majidnope&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
