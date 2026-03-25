@@ -7,7 +7,7 @@
 - wanna  **Crafting IT Solutions** that actually make a difference
 - Me..! Currently exploring **AI-integrated web apps**  
 - Learning **Ai, Languages, Tools,..**
-- Hit me up for talks about **Angular, TypeScript, Flutter, Firebase**  
+- Hit me up for talks about **Angular, .NET, SQL, Azure, Firebase**  
 
 
 
@@ -23,46 +23,153 @@
 <br>
 <div align="center">
 
+
+
+
+
+
 <table>
-  <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" /><br>React</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" /><br>JavaScript</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="62" /><br>REST API</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Toolkit" width="62" /><br>Redux Toolkit</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55" /><br><b>Tailwind</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="55" /><br><b>Material UI</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55" /><br><b>HTML5</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c#" width="55" /><br><b>C#</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="55" /><br><b>.NET Core</b></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" /><br>GitHub</td>
-    <td align="center" style="padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" /><br/><b>SQL Server</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55" /><br><b>Linux</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55" /><br><b>CSS3</b></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="Aws" width="65" /><br>AWS</td>
 
+<!-- FRONTEND -->
+<tr>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60"/>
+    <br>Angular
+  </td>
+  <td align="center">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/>
+    <br>JavaScript
+  </td>
+  <td align="center">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/>
+    <br>TypeScript
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
+    <br>Tailwind
+  </td>
+  <td align="center">
+  <img src="https://skillicons.dev/icons?i=redux" width="55"/>
+  <br>NgRx
+</td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="55"/>
+    <br>Bootstrap
+  </td>
+</tr>
 
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="55" /><br><b>Vercel</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55" /><br><b>Git</b></td>
-        <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55" /><br><b>Docker</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="55" /><br><b>Postman</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55" /><br><b>Figma</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55" /><br><b>VS Code</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=visualstudio" width="55" /><br><b>Visual Studio</b></td>
-  </tr>
-    <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="55" /><br><b>Netlify</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=k8s" width="55" /><br><b>Kubernetes</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=windows" width="55" /><br><b>Windows</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" /><br><b>Bootstrap</b></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="GitHub" width="65" /><br>Prettier</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=npm" width="55" /><br><b>npm</b></td>
-    <td align="center"><img src="http://jwt.io/img/icon.svg" alt="JWT" width="62" /><br>JWT</td>
-  </tr>
+<!-- BACKEND -->
+<tr>
+  <td align="center">
+    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60"/>
+    <br>C#
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=dotnet" width="55"/>
+    <br>.NET Core
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55"/>
+    <br>SQL Server
+  </td>
+  <td align="center">
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60"/>
+    <br>REST API
+  </td>
+  <td align="center">
+    <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" width="55"/>
+    <br>Entity Framework
+  </td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dapper/dapper-original.svg" width="55"/>
+    <br>Dapper
+  </td>
+</tr>
+
+<!-- DATABASE / DATA -->
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+    <br>SQL
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55"/>
+    <br>Firebase
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="55"/>
+    <br>ADO.NET
+  </td>
+  <td align="center">
+    <img src="https://swagger.io/swagger/media/assets/images/swagger_logo.svg" width="55"/>
+    <br>Swagger
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=postman" width="55"/>
+    <br>Postman
+  </td>
+  <td align="center">
+    <img src="https://jwt.io/img/icon.svg" width="55"/>
+    <br>JWT
+  </td>
+</tr>
+
+<!-- DEVOPS / TOOLS -->
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=git" width="55"/>
+    <br>Git
+  </td>
+  <td align="center">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60"/>
+    <br>GitHub
+  </td>
+  <td align="center">
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60"/>
+    <br>Docker
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=azure" width="55"/>
+    <br>Azure
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=vercel" width="55"/>
+    <br>Vercel
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=npm" width="55"/>
+    <br>npm
+  </td>
+</tr>
+
+<!-- DESIGN / EDITORS -->
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=figma" width="55"/>
+    <br>Figma
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+    <br>VS Code
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=visualstudio" width="55"/>
+    <br>Visual Studio
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=html" width="55"/>
+    <br>HTML5
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=css" width="55"/>
+    <br>CSS3
+  </td>
+</tr>
+
 </table>
+
+
+
 
 </div>
 <br>
